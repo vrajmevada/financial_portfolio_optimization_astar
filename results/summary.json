@@ -1,0 +1,19 @@
+{
+    "optimized": {
+        "weights": [
+            0.35,
+            0.05000000000000002,
+            0.10000000000000002,
+            0.2,
+            0.3
+        ],
+        "annualized_return": 0.35369463270125356,
+        "annualized_volatility": 15.597642322401143,
+        "sharpe_ratio": 1.7028002449080863,
+        "max_drawdown": -0.18890307651880134
+    },
+    "equal_weight": {
+        "sharpe_ratio": 1.7121501801432115,
+        "max_drawdown": -0.21574990398253857
+    }
+}
